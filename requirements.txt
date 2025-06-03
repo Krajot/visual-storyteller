@@ -1,0 +1,5 @@
+# Install dependencies
+pip install torch torchvision transformers
+pip install pillow numpy pandas matplotlib
+pip install nltk spacy datasets
+pip install wandb tensorboard  # for experiment tracking
